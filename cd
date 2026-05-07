@@ -22,7 +22,6 @@
     html { scroll-behavior: smooth; }
     body { font-family: 'Libre Baskerville', Georgia, serif; background: var(--white); color: var(--black); overflow-x: hidden; }
 
-```
 /* ── NAV ── */
 nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
@@ -302,7 +301,6 @@ footer {
   footer { padding: 18px 24px; flex-direction: column; gap: 12px; text-align: center; }
 }
 @media (max-width: 560px) { .tm-grid { grid-template-columns: 1fr; } }
-```
 
   </style>
 </head>
@@ -451,7 +449,6 @@ footer {
   </div>
   <div class="tm-grid">
 
-```
 <div class="tm-card">
   <div class="tm-avatar">A</div>
   <div class="tm-name">Amirreza Taqizade</div>
@@ -491,7 +488,6 @@ footer {
     LinkedIn
   </a>
 </div>
-```
 
   </div>
 </section>
